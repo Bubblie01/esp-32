@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "esp-32",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "11ffc239-c1c4-4271-9e0e-520249b09cfa",
+      "database_name": "d1-esp"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
